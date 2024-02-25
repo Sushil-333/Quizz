@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="first">#18DB20</color>
+    <color name="second">#16D8C6</color>
+    <color name="third">#CD1515</color>
+    <color name="fourth">#F5F5F5</color>
+    <color name="trophy">#CDA11C</color>
+</resources>

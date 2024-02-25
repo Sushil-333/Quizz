@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737878035560",
+    "project_id": "tech-quiz-f3bb3",
+    "storage_bucket": "tech-quiz-f3bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737878035560:android:9aa903f18191a0873a3fdd",
+        "android_client_info": {
+          "package_name": "com.example.techquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_oGS7QkcnoI4zNOyRi925A0sy-PpHoS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
